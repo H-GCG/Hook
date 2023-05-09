@@ -13,6 +13,8 @@ class AHookGameMode : public AGameModeBase
 
 public:
 	AHookGameMode();
+
+	int a =0;
 };
 
 
