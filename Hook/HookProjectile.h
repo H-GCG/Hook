@@ -35,7 +35,5 @@ public:
 	UProjectileMovementComponent* GetProjectileMovement() const { return ProjectileMovement; }
 
 	int b = 6;
-	int c = 6;
-	int d = 6;
 };
 
